@@ -1,4 +1,4 @@
-![Project Status](https://img.shields.io/badge/status-in_progress-yellow
+![Project Status](https://img.shields.io/badge/status-in_progress-yellow)
 
 # Linux Skills Showcase
 
